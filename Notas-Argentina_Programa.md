@@ -12,7 +12,7 @@ Existen 4 etapas:
 - **ABSTRACCIÓN**: es simplificar un problema complejo dejando de lado los detalles pocos relevantes para centrar la atención en los datos importantes y definir un plan acotado.
 - **ALGORITMOS**: es la definición de los pasos ordenados necesarios para resolución del problema.
 
-### Operadores de búsqueda de Google
+## Operadores de búsqueda de Google
 
 | **OPERADOR** | **EJEMPLO**            | **QUÉ HACE**                                                                                     |
 | ------------------ | ---------------------------- | ------------------------------------------------------------------------------------------------------- |
