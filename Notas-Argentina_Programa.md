@@ -20,7 +20,7 @@ Existen 4 etapas:
 | ***AND***  | JavaScript and Sintaxis      | Busca páginas que incluya los dos términos especificados.                                             |
 | ***" "***  | "Github flow" o "Subversion" | Te muestra resultados donde aparece el término o los términos exactos que hayas añadido entre los ". |
 | ***-***    | Fullstack -MEAN              | Te muestra resultados donde se excluya la palabra que hayas puesto detrás del -                       |
-| "SCRUM *meeting" | Un comodín que puede coincidir con cualquier palabra en la búsqueda.|
+| *          | "SCRUM *meeting" | Un comodín que puede coincidir con cualquier palabra en la búsqueda.|
 |***. .*** | Celular 20000..50000 pesos | Te muestra resultados donde donde se añade un intervalo de números que tú especificas.|
 |***( )*** | ("redes sociales" OR "plataformas sociales") -Twitter | Te permite combinar operadores. En el ejemplo buscarás redes sociales o plataformas sociales, pero excluyendo Twitter de los resultados.|
 |***AROUND*** | Trucos around(3) Instagram | Resultados donde aparecen las dos palabras especificadas, pero con el número que determines de términos entre ellas.|
