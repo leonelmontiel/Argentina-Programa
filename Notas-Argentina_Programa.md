@@ -61,8 +61,8 @@ Existen 4 etapas:
 -   **_Menú contextual:_** Presiona y mantén presionado / haz clic con el botón derecho en un elemento en una página web (Ctrl-clic en Mac) y elige _Inspeccionar elemento_ en el menú contextual que aparece. (_Una ventaja adicional:_ este método, inmediatamente resalta el código del elemento en el que hiciste clic con el botón derecho).
 ---
 ### Licenciamiento y versionado
-![wcveveverve](https://argentinaprograma.inti.gob.ar/pluginfile.php/127672/mod_page/content/17/Captura%20de%20pantalla%20%2880%29.png)
-![svgvdsc](https://argentinaprograma.inti.gob.ar/pluginfile.php/127672/mod_page/content/17/licencias%20de%20uso.jfif)
+![enter image description here](https://argentinaprograma.inti.gob.ar/pluginfile.php/127672/mod_page/content/17/Captura%20de%20pantalla%20%2880%29.png)
+![enter image description here](https://argentinaprograma.inti.gob.ar/pluginfile.php/127672/mod_page/content/17/licencias%20de%20uso.jfif)
 ----
 ### Sitios de documentación de las tecnologías a aprender
 • Documentación oficial HTML - [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
